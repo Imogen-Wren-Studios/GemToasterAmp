@@ -5,6 +5,19 @@
 
  - Quality of sound highly dependent on speaker & cab combo.
  
+ ## 3D Model
+ #### Iso
+ ![image](https://user-images.githubusercontent.com/97303986/219975264-0416a19e-cfc4-4eef-a3ae-3caea3fa6e59.png) 
+ #### Underside
+ ![image](https://user-images.githubusercontent.com/97303986/219975292-bcfef8a9-9dc9-4e45-bd41-7526689ad503.png)
+ #### Topside
+ ![image](https://user-images.githubusercontent.com/97303986/219975322-cceffca0-5d27-470d-be27-a1bfb4f6e561.png)
+
+ 
+ ## PCB Layout
+ ![image](https://user-images.githubusercontent.com/97303986/219975145-c7bb9792-f08b-4527-ac55-0830714a7078.png)
+
+ 
  ## Schematic
  
  ![image](https://user-images.githubusercontent.com/97303986/219098777-c474740c-d59e-4d92-8f3e-428e28ce3c5c.png)
