@@ -26,3 +26,8 @@ Some parts can be more difficult to find or I just didnt have them in stock for 
 470n Capacitor - 390n Could put an additional 100n in parallel to get closer to marked value
 
 15n Capacitor - 22n
+
+
+## Revision 0 Issues:
+- Power Amp control is backwards, but this control isnt that useable, on the origional project this was replaced with a trimpot anyway, so suggest mounting it back to front for a "set and forget" control, or replace with fixed value resistor.
+   - Could also look into cutting traces between 2 and 3 - TODO
