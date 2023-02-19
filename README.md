@@ -15,12 +15,14 @@
  
  _I thought there were some notes on this but I can't find them, the only other thing I had read says "Anything Goes". They used cheapo out of spec parts and they worked._
  
- Resistors
- 
- 3.9k is made with 15k in series with 5.1k
- 4.3k is made with 15k in series with 6.2k
- 
- 
-470n is 390n  + 100n in parallel if required
+### Other Parts slection
 
-15n os 22n
+Some parts can be more difficult to find or I just didnt have them in stock for my test build, so these are the values I used in my *working* build:
+ 
+ 3.9k Resistors - 15k in parallel with 5.1k
+ 4.3k Resistors - 15k in  parallel  with 6.2k
+ 
+ 
+470n Capacitor - 390n Could put an additional 100n in parallel to get closer to marked value
+
+15n Capacitor - 22n
