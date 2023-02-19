@@ -22,3 +22,5 @@
  
  
 470n is 390n  + 100n in parallel if required
+
+15n os 22n
