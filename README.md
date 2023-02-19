@@ -21,4 +21,4 @@
  4.3k is made with 15k in series with 6.2k
  
  
-
+470n is 390n  + 100n in parallel if required
