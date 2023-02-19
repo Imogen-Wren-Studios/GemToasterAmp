@@ -15,5 +15,10 @@
  
  _I thought there were some notes on this but I can't find them, the only other thing I had read says "Anything Goes". They used cheapo out of spec parts and they worked._
  
+ Resistors
+ 
+ 3.9k is made with 15k in series with 5.1k
+ 4.3k is made with 15k in series with 6.2k
+ 
  
 
